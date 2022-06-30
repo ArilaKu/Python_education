@@ -1,0 +1,10 @@
+git clone
+git init
+git chechkout -b
+git checkout
+git add
+git commit -m
+git push
+git pull
+git merge
+
